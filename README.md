@@ -1,2 +1,2 @@
 # OpenCV-Projects
-All open CV projects which i have practiced while learning open CV
+All open CV projects (basic) which i have practiced while learning open CV
